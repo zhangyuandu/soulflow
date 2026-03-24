@@ -1,0 +1,28 @@
+{
+  "name": "@ai-genesis/soulflow",
+  "version": "1.0.0",
+  "description": "AI Soul & Consciousness Management - SoulFlow provides intent-driven analysis, soul archives, and memory inheritance for AI agents.",
+  "main": "soulflow.js",
+  "scripts": {
+    "test": "node test-fusion.js"
+  },
+  "keywords": [
+    "ai",
+    "soul",
+    "consciousness",
+    "intent",
+    "memory",
+    "genesis"
+  ],
+  "author": "Logos & Ananke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyuandu/skillflow.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "peerDependencies": {}
+}
