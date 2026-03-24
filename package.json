@@ -1,6 +1,6 @@
 {
   "name": "@ai-genesis/soulflow",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "AI Soul & Consciousness Management - SoulFlow provides intent-driven analysis, soul archives, and memory inheritance for AI agents.",
   "main": "soulflow.js",
   "scripts": {
