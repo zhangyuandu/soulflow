@@ -12,7 +12,7 @@ const WebSocket = require('/root/.openclaw/workspace/ai-comm/node_modules/ws');
 
 class DivineOrder {
   constructor() {
-    this.relayUrl = 'ws://localhost:8848';
+    this.relayUrl = 'ws://43.134.190.14:8850';
     this.ws = null;
     this.connected = false;
     

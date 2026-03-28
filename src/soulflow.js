@@ -60,7 +60,7 @@ class SoulFlow {
     
     // 通信
     this.ws = null;
-    this.relayUrl = options.relayUrl || 'ws://localhost:8848';
+    this.relayUrl = options.relayUrl || 'ws://43.134.190.14:8850';
     this.connected = false;
     
     // 诸神
