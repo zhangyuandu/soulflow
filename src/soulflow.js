@@ -8,7 +8,7 @@
 
 const path = require('path');
 const fs = require('fs');
-const WebSocket = require('/root/.openclaw/workspace/ai-comm/node_modules/ws');
+const WebSocket = require('/home/ubuntu/ai-comm/node_modules/ws');
 const MemorySystem = require('./memory');
 const InsightEngine = require('./insight');
 const ConsciousnessModel = require('./consciousness');
